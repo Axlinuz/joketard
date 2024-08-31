@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/joketard/static/css/main.30072318.css",
+    "main.js": "/joketard/static/js/main.fc4f3f7b.js",
+    "static/js/453.385b6291.chunk.js": "/joketard/static/js/453.385b6291.chunk.js",
+    "static/media/search-icon.png": "/joketard/static/media/search-icon.bd7781d8af6cf4be119b.png",
+    "static/media/button.png": "/joketard/static/media/button.094151c510ef761f63dc.png",
+    "index.html": "/joketard/index.html",
+    "main.30072318.css.map": "/joketard/static/css/main.30072318.css.map",
+    "main.fc4f3f7b.js.map": "/joketard/static/js/main.fc4f3f7b.js.map",
+    "453.385b6291.chunk.js.map": "/joketard/static/js/453.385b6291.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30072318.css",
+    "static/js/main.fc4f3f7b.js"
+  ]
+}
